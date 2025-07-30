@@ -7,5 +7,5 @@ router = APIRouter()
 async def analyze_dataset(file: UploadFile = File(...)):
     df = pd.read_csv(file.file)
     preview = df.head(3).to_dict(orient="records")
-    columns = df.columns.tolist()
+    columns = df.columns.tolis()
     return {"columns": columns, "preview": preview}
