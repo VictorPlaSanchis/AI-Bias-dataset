@@ -1,0 +1,6 @@
+age,income,gender,default
+25,30000,male,0
+30,45000,female,0
+45,80000,female,1
+50,90000,male,0
+60,120000,male,1
