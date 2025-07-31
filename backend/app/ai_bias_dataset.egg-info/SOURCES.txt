@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+backend/app/ai_bias_dataset.egg-info/PKG-INFO
+backend/app/ai_bias_dataset.egg-info/SOURCES.txt
+backend/app/ai_bias_dataset.egg-info/dependency_links.txt
+backend/app/ai_bias_dataset.egg-info/requires.txt
+backend/app/ai_bias_dataset.egg-info/top_level.txt
+backend/app/ai_bias_dataset.egg-info/SOURCES.txt
+backend/app/schema_inference/__init__.py
+backend/app/schema_inference/config.py
+backend/app/schema_inference/enums.py
+backend/app/schema_inference/exceptions.py
+backend/app/schema_inference/infer.py
+backend/app/schema_inference/utils.py
+test/test_infer_schema.py

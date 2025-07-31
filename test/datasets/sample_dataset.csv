@@ -1,6 +1,7 @@
-age,income,gender,default
-25,30000,male,0
-30,45000,female,0
-45,80000,female,1
-50,90000,male,0
-60,120000,male,1
+age,income,gender,default,id,time,cm
+25,30000,male,0,ab1,16:54:00,170.54
+30,45000,female,0,rd2,00:10:00,152.00
+45,80000,female,1,cd3,00:11:00,182.93
+50,90000,male,0,hj4,12:01:05,171.93
+60,120000,male,1,lp5,,165.03
+23,0,male,0,aj6,09:59:34,180.23

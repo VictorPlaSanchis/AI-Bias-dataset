@@ -16,17 +16,17 @@ Este documento describe el roadmap detallado para llevar el proyecto desde su es
 ## 🚀 Milestone 1 – Integración y Análisis Básico (Semana 1-2)
 
 ### 🔹 Backend
-- [ ] Parsing automático de tipos de columna (numérica, categórica, booleana, fecha, ID).
-- [ ] Análisis de correlación entre features y con el target:
-  - [ ] Pearson (variables numéricas).
-  - [ ] Cramér’s V (categóricas).
-  - [ ] Heatmap de correlación.
-- [ ] Detección de data leaks (features muy correladas con el target).
-- [ ] Evaluación del balance de clases.
-- [ ] Identificación de columnas "problema":
-  - [ ] Constantes, vacías.
-  - [ ] Altamente correladas.
-  - [ ] Columnas tipo ID.
+- [x] Parsing automático de tipos de columna (numérica, categórica, booleana, fecha, ID).
+- [x] Análisis de correlación entre features y con el target:
+  - [x] Pearson (variables numéricas).
+  - [x] Cramér’s V (categóricas).
+  - [x] Heatmap de correlación.
+- [x] Detección de data leaks (features muy correladas con el target).
+- [x] Evaluación del balance de clases.
+- [x] Identificación de columnas "problema":
+  - [x] Constantes, vacías.
+  - [x] Altamente correladas.
+  - [x] Columnas tipo ID.
 
 ### 🔹 Frontend
 - [ ] Conectar formulario de subida con el backend.
